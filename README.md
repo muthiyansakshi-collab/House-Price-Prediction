@@ -1,5 +1,4 @@
 # House Price Prediction Dashboard
-# House Price Prediction Dashboard
 
 ![Python](https://img.shields.io/badge/Python-Blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
