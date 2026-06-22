@@ -1,4 +1,8 @@
 # House Price Prediction Dashboard
+![Python](https://img.shields.io/badge/Python-Blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red)
 
 ## Project Overview
 This project analyzes house prices and provides interactive visualizations using Power BI.
