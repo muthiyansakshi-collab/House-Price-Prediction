@@ -1,18 +1,34 @@
-# House Price Prediction using Machine Learning
+# House Price Prediction Dashboard
 
 ## Project Overview
-This project predicts house prices using Linear Regression.
+This project analyzes house prices and provides interactive visualizations using Power BI.
 
-## Dataset
-- train.csv
-- test.csv
-
-## Libraries Used
+## Tools Used
+- Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-- Scikit-Learn
+- Scikit-learn
+- Power BI
+
+## Features
+- Average Sale Price Analysis
+- Maximum and Minimum Sale Price
+- Year Built Analysis
+- Neighborhood Analysis
+- Kitchen Quality Distribution
+- Garage Cars Distribution
+
+## Files
+- House_Price_Prediction.ipynb
+- train.csv
+- test.csv
+- sample_submission.csv
+- model.pkl
+- requirements.txt
+
+## Dashboard
+Power BI dashboard provides interactive insights into house prices.
 
 ## Steps Performed
 1. Data Loading
